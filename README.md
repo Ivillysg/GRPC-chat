@@ -1,3 +1,10 @@
+# GRPC-chat
+## Dupla:
+- Ivillys Gomes
+- Felipe Leite
+
+## Instruções
+
 - Install Modules:
 
     ``$ npm install``
@@ -9,4 +16,4 @@
 - Start client:
 
     ``$ node client``
-# GRPC-chat
+
